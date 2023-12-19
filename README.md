@@ -3,11 +3,18 @@
 <div align="left">
     <img width="150" height="150" src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="trophy" />
 
-- 👨‍💻 All of my projects are available at [https://hackmd.io/@Fionn88/rkQNP3Je5](https://hackmd.io/@Fionn88/rkQNP3Je5)
+- Volunteer/Speaker in the [Taiwanese Golang community](https://www.facebook.com/groups/269001993248363).
 
-- 📝 I regularly write articles on [https://medium.com/@fionnkuo](https://medium.com/@fionnkuo)
+- Teaching Assistant in the [ccClub](https://www.ccclub.io/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LSrWRQkL3tVxr4KloYZzZIhnvfY7H-TI/view?usp=sharing](https://drive.google.com/file/d/1LSrWRQkL3tVxr4KloYZzZIhnvfY7H-TI/view?usp=sharing)
+- Contributor in the CNCF
+    - Translation of proprietary terms in the [glossary](https://glossary.cncf.io/zh-tw/).
+
+- 👨‍💻 All of my projects are available at [Hackmd](https://hackmd.io/@Fionn88/rkQNP3Je5)
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@fionnkuo)
+
+- 📄 Know about my experiences [Google Drive](https://drive.google.com/file/d/1LSrWRQkL3tVxr4KloYZzZIhnvfY7H-TI/view?usp=sharing)
 
 - 📫 How to reach me **fionnkuo1999@gmail.com**
 
