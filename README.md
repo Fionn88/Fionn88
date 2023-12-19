@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@fionnkuo)
 
-- 📄 Know about my experiences [Google Drive](https://drive.google.com/file/d/1LSrWRQkL3tVxr4KloYZzZIhnvfY7H-TI/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1LSrWRQkL3tVxr4KloYZzZIhnvfY7H-TI/view?usp=sharing)
 
 - 📫 How to reach me **fionnkuo1999@gmail.com**
 
