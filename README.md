@@ -4,6 +4,7 @@
     <img width="150" height="150" src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="trophy" />
 
 - Volunteer/Speaker in the [Taiwanese Golang community](https://www.facebook.com/groups/269001993248363).
+    - [2023 GDG Taipei DevFest 淺談 Golang v1.21 new function min max clear](https://speakerdeck.com/fionnkuo/qian-tan-golang-v1-dot-21-new-function-min-max-clear)
 
 - Teaching Assistant in the [ccClub](https://www.ccclub.io/)
 
