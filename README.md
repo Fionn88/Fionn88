@@ -9,13 +9,13 @@
 - Teaching Assistant in the [ccClub](https://www.ccclub.io/)
 
 - Contributor in the CNCF
-    - Translation of proprietary terms in the [glossary](https://glossary.cncf.io/zh-tw/).
+    - Translation of proprietary terms in the [Glossary](https://glossary.cncf.io/zh-tw/).
 
 - 👨‍💻 All of my projects are available at [Hackmd](https://hackmd.io/@Fionn88/rkQNP3Je5)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@fionnkuo)
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1LSrWRQkL3tVxr4KloYZzZIhnvfY7H-TI/view?usp=sharing)
+- 📄 Know about my [Experiences](https://drive.google.com/file/d/1LSrWRQkL3tVxr4KloYZzZIhnvfY7H-TI/view?usp=sharing)
 
 - 📫 How to reach me **fionnkuo1999@gmail.com**
 
