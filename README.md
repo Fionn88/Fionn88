@@ -19,11 +19,6 @@
 
 - 📫 How to reach me **fionnkuo1999@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yuan-heng-kuo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuan-heng-kuo-67a746170" height="30" width="40" /></a>
-</p>
-
 ![fionn88's GitHub stats](https://github-readme-stats.vercel.app/api?username=fionn88&show_icons=true&theme=highcontrast)
 
 ![image](https://wakatime.com/badge/user/806021b6-a599-46cd-be7b-594f7b23c734.svg)
