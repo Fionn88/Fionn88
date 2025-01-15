@@ -1,4 +1,4 @@
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width = 50px></picture> **About me**
 
 <div align="left">
     <img width="150" height="150" src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="trophy" />
