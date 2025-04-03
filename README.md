@@ -6,7 +6,7 @@
 - Volunteer/Speaker in the [Taiwanese Golang community](https://www.facebook.com/groups/269001993248363).
     - [2023 GDG Taipei DevFest](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taipei-2023/)：[淺談 Golang v1.21 new function min max clear](https://speakerdeck.com/fionnkuo/qian-tan-golang-v1-dot-21-new-function-min-max-clear)
 
-- Teaching Assistant in the [ccClub](https://www.ccclub.io/)
+- Teaching Assistant/Backend Developer/Supervisor in the [ccClub](https://www.ccclub.io/)
 
 - Contributor in the CNCF
     - Translation of proprietary terms in the [Glossary](https://glossary.cncf.io/zh-tw/).
